@@ -14,7 +14,7 @@
 </div>
 
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBogo1&theme=aura&hide_progress=true)
+  <img height = "150em" width = "340em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBogo1&theme=aura&hide_progress=true" />
   
   
   <div> 
