@@ -1,5 +1,5 @@
 ### BOA TARDE FAMÍLIA 🏐👋😎 
-Me chamo Gabriel, bem-vindo ao perfil do teu pai 
+<strong>Bem-vindo ao perfil do teu pai 🔥 </strong>
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
