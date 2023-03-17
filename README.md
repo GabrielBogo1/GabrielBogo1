@@ -1,7 +1,6 @@
 ### BOA TARDE FAMÍLIA 🏐👋😎 
 <strong>Bem-vindo(a) ao perfil do teu pai 🔥 </strong>
 
-<br>
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Sobre mim
 
