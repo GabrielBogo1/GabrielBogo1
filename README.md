@@ -50,4 +50,7 @@ function readme () {
   </div>
 
 
+![snake gif](https://github.com/GabrielBogo1/GabrielBogo1/blob/output/github-contribution-grid-snake.svg)
+
+
 
