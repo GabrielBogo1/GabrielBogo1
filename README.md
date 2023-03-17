@@ -49,6 +49,9 @@ function readme () {
   <a href="https://www.linkedin.com/in/gabriel-da-cruz-bogo-52138b241/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
   </div>
 
+<br>
+
+## Cobra merendando meus commits 👋🐍
 
 ![snake gif](https://github.com/GabrielBogo1/GabrielBogo1/blob/output/github-contribution-grid-snake.svg)
 
