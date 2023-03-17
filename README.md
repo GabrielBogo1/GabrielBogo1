@@ -10,7 +10,7 @@ function readme () {
  const name = "Gabriel da Cruz Bogo"
  let age = 18
  
- let description = "Estou atualmente estudando Engenharia de Software, na UniAmérica, em busca do primeiro emprego na área"
+ let description = "Atualmente estudando Engenharia de Software na UniAmérica, em busca do primeiro emprego na área"
  let basicKnowledge = ['HTML', 'CSS', 'JavaScript', 'C']
  
  let learning = ['Python', 'Java']
