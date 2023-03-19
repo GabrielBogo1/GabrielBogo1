@@ -31,12 +31,13 @@ function readme () {
 
 ## **GitHub Estatísticas**
 
+
 <a href="https://github.com/gabrielbogo1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielbogo1&theme=aura&hide_langs_below=1" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielbogo1&show_icons=true&theme=aura&line_height=24" alt="GabrielBogo github stats"/>
 </a>
 
 <a href="https://github.com/gabrielbogo1">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielbogo1&show_icons=true&theme=aura&line_height=27" alt="GabrielBogo github stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielbogo1&theme=aura&hide_langs_below=1&layout=compact&" />
 </a>
 
 <br>
