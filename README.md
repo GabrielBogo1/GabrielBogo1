@@ -36,13 +36,15 @@ function readme () {
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielbogo1&show_icons=true&theme=aura&line_height=24" alt="GabrielBogo github stats"/>
 </a>
 
+<div>
 <a href="https://github.com/gabrielbogo1">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielbogo1&theme=aura&hide_langs_below=1&layout=compact&" />
 </a>
+</div>
 
-<br>
 
-#### Rede Sociais!
+
+## Rede Sociais! 
 
  <div> 
   <a href="https://www.instagram.com/gaabrieldcb/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
