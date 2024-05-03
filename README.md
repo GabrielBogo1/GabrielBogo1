@@ -10,7 +10,7 @@
 ```JavaScript
 function readme () {
  const name = "Gabriel da Cruz Bogo";
- let age = 19;
+ let age = 20;
  
  let description = "Atualmente estudando Engenharia de Software na UniAmérica, em busca do primeiro emprego na área";
  let basicKnowledge = ['HTML', 'CSS', 'JavaScript', 'C'];
