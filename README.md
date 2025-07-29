@@ -1,5 +1,5 @@
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Sobre mim
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> About me
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
@@ -16,17 +16,6 @@ function readme () {
  
 }
 ```
-
-## **Principais Linguagens:**  
-
-<div>
-  <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
-</div>
-
-
 ## **GitHub Estatísticas**
 
 <div>
