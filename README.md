@@ -11,7 +11,7 @@ function readme () {
  let description = "Formado em análise de sistemas e Atualmente cursando Engenharia de Software na UniAmérica (8/8)";
  let intermediateKnowledge = ['Angular', 'JavaScript', 'TypeScript', 'C', 'Java'];
  
- let previousExperiences = ['Python', 'DevOps tools', 'Cloud Computing'];
+ let previousExperiences = ['DevOps tools', 'Cloud Computing'];
  console.log ("Improving Linux Shell knowledge");
  
 }
