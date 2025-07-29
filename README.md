@@ -6,13 +6,13 @@
 ```JavaScript
 function readme () {
  const name = "Gabriel da Cruz Bogo";
- let age = 20;
+ let age = 21;
  
- let description = "Atualmente estudando Engenharia de Software na UniAmérica, em busca do primeiro emprego na área";
- let basicKnowledge = ['HTML', 'CSS', 'JavaScript', 'C'];
+ let description = "Formado em análise de sistemas e Atualmente cursando Engenharia de Software na UniAmérica (8/8)";
+ let intermediateKnowledge = ['Angular', 'JavaScript', 'TypeScript', 'C', 'Java'];
  
- let learning = ['Python', 'Java'];
- console.log ("Estudando também diferentes distros de Linux!");
+ let previousExperiences = ['Python', 'DevOps tools', 'Cloud Computing'];
+ console.log ("Improving Linux Shell knowledge");
  
 }
 ```
