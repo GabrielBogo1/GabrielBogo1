@@ -20,7 +20,6 @@ function readme () {
 ## **Principais Linguagens:**  
 
 <div>
-  <img align="center" alt="JS" height="30" width="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fworldvectorlogo.com%2Fpt%2Flogo%2Ftypescript&psig=AOvVaw2wPe31IBCgKKUhtGq3QPSm&ust=1753842002058000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCIC2j_2o4Y4DFQAAAAAdAAAAABAK">
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
