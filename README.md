@@ -8,7 +8,7 @@ function readme () {
  const name = "Gabriel da Cruz Bogo";
  let age = 21;
  
- let description = Graduated in Systems Analysis and currently completing a degree in Software Engineering at UniAmérica (8th semester / final semester);
+ let description = "Graduated in Systems Analysis and currently completing a degree in Software Engineering at UniAmérica (8th semester / final semester)";
  let intermediateKnowledge = ['Angular', 'JavaScript', 'TypeScript', 'C', 'Java'];
  
  let previousExperiences = ['DevOps tools', 'Cloud Computing'];
